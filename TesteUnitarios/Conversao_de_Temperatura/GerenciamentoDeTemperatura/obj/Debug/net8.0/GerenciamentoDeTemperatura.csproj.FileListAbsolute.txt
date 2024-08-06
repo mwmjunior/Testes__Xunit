@@ -1,0 +1,14 @@
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\bin\Debug\net8.0\GerenciamentoDeTemperatura.exe
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\bin\Debug\net8.0\GerenciamentoDeTemperatura.deps.json
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\bin\Debug\net8.0\GerenciamentoDeTemperatura.runtimeconfig.json
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\bin\Debug\net8.0\GerenciamentoDeTemperatura.dll
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\bin\Debug\net8.0\GerenciamentoDeTemperatura.pdb
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\obj\Debug\net8.0\GerenciamentoDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\obj\Debug\net8.0\GerenciamentoDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\obj\Debug\net8.0\GerenciamentoDeTemperatura.AssemblyInfo.cs
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\obj\Debug\net8.0\GerenciamentoDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\obj\Debug\net8.0\GerenciamentoDeTemperatura.dll
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\obj\Debug\net8.0\refint\GerenciamentoDeTemperatura.dll
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\obj\Debug\net8.0\GerenciamentoDeTemperatura.pdb
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\obj\Debug\net8.0\GerenciamentoDeTemperatura.genruntimeconfig.cache
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Conversao_de_Temperatura\GerenciamentoDeTemperatura\obj\Debug\net8.0\ref\GerenciamentoDeTemperatura.dll

@@ -1,0 +1,4 @@
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Validacao_de_Email\GerenciamentoDeEmails\obj\Debug\net8.0\GerenciamentoDeEmails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Validacao_de_Email\GerenciamentoDeEmails\obj\Debug\net8.0\GerenciamentoDeEmails.AssemblyInfoInputs.cache
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Validacao_de_Email\GerenciamentoDeEmails\obj\Debug\net8.0\GerenciamentoDeEmails.AssemblyInfo.cs
+C:\Users\836574281\Downloads\xUnit-main\xUnit-main\TesteUnitarios\Validacao_de_Email\GerenciamentoDeEmails\obj\Debug\net8.0\GerenciamentoDeEmails.csproj.CoreCompileInputs.cache
